@@ -1,0 +1,34 @@
+/* CSS Document */
+#casa_compra {
+	width: 90%;
+	margin: auto;
+	text-align: center;
+	height: auto;
+	padding: 20px;
+	margin: 50px;
+	display: flex;
+	justify-content: center
+}
+.fitr {
+	width: 25%;
+	height: auto;
+	padding: 20px;
+}
+.fitr h5 {
+	font-weight: bold;
+	font-style: oblique;
+	color: #666
+}
+.galer {
+	width: 73%;
+	border: 1px solid black;
+	height: auto
+}
+#num_rang {
+	text-align: center;
+	border: 1px solid #CCC;
+	box-shadow: -0.2em 0.2em 1.2em #666;
+	background-color: #666;
+	color: #FFF;
+	padding:10px
+}
